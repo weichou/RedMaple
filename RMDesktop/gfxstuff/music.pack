@@ -1,0 +1,40 @@
+
+music.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_note
+  rotate: false
+  xy: 1, 80
+  size: 147, 400
+  orig: 147, 400
+  offset: 0, 0
+  index: -1
+note
+  rotate: false
+  xy: 150, 211
+  size: 142, 269
+  orig: 142, 269
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 294, 309
+  size: 68, 171
+  orig: 68, 171
+  offset: 0, 0
+  index: -1
+note2
+  rotate: false
+  xy: 1, 1
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+end
+  rotate: false
+  xy: 150, 106
+  size: 40, 103
+  orig: 40, 103
+  offset: 0, 0
+  index: -1

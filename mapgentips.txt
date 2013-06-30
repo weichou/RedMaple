@@ -1,0 +1,9 @@
+Or what I learned from watching flux graphs of various songs:
+
+Drums are the most energetic instruments, therefore they generate most of the peaks (duh). In electronic music songs, the part where the background
+should "bathe in colors" or have the most colorful palette are the parts where there are no "drums" aka visible peaks yet the energy is very high.
+These parts are usually meant to be enjoyable so the color scheme could be relaxing (or very unrelaxing if the flux fluctuates rapidly) but easy to
+play through.
+
+Energy affects peak detection A LOT. If there's a lot of energy the same volume drum hits won't register as peaks anymore because the multiplier
+isn't reached.

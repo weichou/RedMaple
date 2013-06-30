@@ -1,0 +1,40 @@
+
+gfx.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paused
+  rotate: false
+  xy: 1, 183
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+note
+  rotate: false
+  xy: 1, 53
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 67, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+spectrum_colors
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

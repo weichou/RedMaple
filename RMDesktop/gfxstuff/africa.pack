@@ -1,0 +1,66 @@
+
+africa.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tree1
+  rotate: false
+  xy: 1, 686
+  size: 400, 330
+  orig: 400, 330
+  offset: 0, 0
+  index: -1
+tree3
+  rotate: false
+  xy: 1, 383
+  size: 400, 301
+  orig: 400, 301
+  offset: 0, 0
+  index: -1
+tree4
+  rotate: false
+  xy: 403, 740
+  size: 400, 276
+  orig: 400, 276
+  offset: 0, 0
+  index: -1
+tree5
+  rotate: false
+  xy: 1, 107
+  size: 400, 274
+  orig: 400, 274
+  offset: 0, 0
+  index: -1
+tree7
+  rotate: false
+  xy: 403, 457
+  size: 393, 281
+  orig: 393, 281
+  offset: 0, 0
+  index: -1
+tree2
+  rotate: false
+  xy: 403, 181
+  size: 398, 274
+  orig: 398, 274
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 1, 1
+  size: 400, 104
+  orig: 400, 104
+  offset: 0, 0
+  index: -1
+
+africa2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tree6
+  rotate: false
+  xy: 1, 1
+  size: 245, 337
+  orig: 245, 337
+  offset: 0, 0
+  index: -1
