@@ -1,0 +1,25 @@
+#Save as .hgignore in the repository base directory and add it to source control.
+syntax: glob
+*.class
+*.apk
+*.dex
+*.ap_
+*.suo
+
+# Intellij stuff
+*.iwl
+.idea/workspace.xml
+.idea/tasks.xml
+ 
+syntax: regexp
+^(.*[\\/])?gen[\\/].*
+^(.*[\\/])?bin[\\/].*
+^(.*[\\/])?obj[\\/].*
+^(.*[\\/])?log[\\/].*
+^(.*[\\/])?obf[\\/].*
+^(.*[\\/])?jars[\\/].*
+^(.*[\\/])?jar-sources[\\/].*
+^(.*[\\/])?javadoc[\\/].*
+^(.*[\\/])?\.svn[\\/].*
+^(.*[\\/])?\.metadata[\\/].*
+^(.*[\\/])?\.settings[\\/].*
